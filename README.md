@@ -10,3 +10,6 @@ This is a demo repo for sharing ideas around communication
 ### Gist
 this is a good example of my code
 https://gist.github.com/jeffreysfeir/784287881e2855dbbac8bcedd05bf724
+
+### Image
+https://github.com/jeffreysfeir/technical-discussions/issues/1#issue-3285766174

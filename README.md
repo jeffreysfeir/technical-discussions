@@ -12,4 +12,4 @@ this is a good example of my code
 https://gist.github.com/jeffreysfeir/784287881e2855dbbac8bcedd05bf724
 
 ### Image
-https://github.com/jeffreysfeir/technical-discussions/issues/1#issue-3285766174
+<img width="398" height="237" alt="Image" src="https://github.com/user-attachments/assets/d377fc98-348a-4e20-bfe0-91000f3e6724" />
